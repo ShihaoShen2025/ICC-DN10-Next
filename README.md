@@ -1,6 +1,6 @@
 <div align=center>
-
-  ![ICC-DN10](ICC-DN10.png)
+  
+  <img src="./ICC-DN10.png" width="120">
 
   # InkCanvasForClass<br>.NET <!--“。网”。跟我一起读：“句号，网”[doge] --> 10 Edition
 
