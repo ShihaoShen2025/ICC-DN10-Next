@@ -1,0 +1,54 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ShihaoShen2025",
+      "name": "Shihao Shen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213038537?v=4",
+      "profile": "https://github.com/ShihaoShen2025",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Trae-AI",
+      "name": "Trae-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192691831?v=4",
+      "profile": "https://github.com/Trae-AI",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cursor",
+      "name": "Cursor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4",
+      "profile": "https://github.com/cursor",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ICC-DN10-Stable",
+  "projectOwner": "ShihaoShen2025"
+}
